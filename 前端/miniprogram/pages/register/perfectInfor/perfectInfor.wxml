@@ -1,0 +1,41 @@
+<!--miniprogram/pages/register/perfectinfor/perfectinfor.wxml-->
+<!--返回主页  -->
+<view class='backHome' bindtap='backHomeTap'>
+  <image src='/images/homeIcon.png' class='backHomeImg'></image>
+</view>
+<!--头部  -->
+<view class='headerContainer'>
+  <!--创建账户  -->
+  <view class='headerListContainer headerListOldActive'>
+    <view class='headerListView'>1</view>
+    <text class='headerListText'>创建账户</text>
+  </view>
+  <!--完善个人信息  -->
+  <view class='headerListContainer headerListActive'>
+    <view class='headerListView'>2</view>
+    <text class='headerListText'>完善个人信息</text>
+  </view>
+  <!--注册成功  -->
+  <view class='headerListContainer'>
+    <view class='headerListView'>3</view>
+    <text class='headerListText'>注册成功</text>
+  </view>
+  <view class='transverseLineLeft'></view>
+  <view class='transverseLineright'></view>
+</view>
+<!--main  -->
+<view class='mainContainer'>
+  <!--学号  -->
+  <view class='mainListContainer'>
+    <view class='mainListText'>学号</view>
+    <input class='mainListInput' placeholder='请输入学号' maxlength="11" bindinput='stunumInput'></input>
+  </view>
+  <!--真实姓名  -->
+  <view class='mainListContainer'>
+    <view class='mainListText'>真实姓名</view>
+    <input class='mainListInput' placeholder='请输入真实姓名' maxlength='25' bindinput='nameInput'></input>
+  </view>
+
+</view>
+<!--nextButton  -->
+<view class='nextButton' bindtap='registerSuccessTap'>下一步，完成</view>

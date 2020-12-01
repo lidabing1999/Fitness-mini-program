@@ -1,0 +1,24 @@
+<!--miniprogram/pages/equipmentLend/equipmentLend.wxml-->
+<form catchsubmit="formSubmit">
+<text>请选择器材的种类和重量</text>
+ <radio-group name="radio" bindchange="radioChange">
+          <label><radio value="哑铃"checked="true"/>哑铃</label>
+          <label><radio value="杠铃"/>杠铃</label>
+          <label><radio value="壶铃"/>壶铃</label>
+        </radio-group>
+
+         <div class="counter">
+      <button class="minus" size="mini" type="default" bindtap="onCounterDec">-</button>
+      <text class="p">{{count}}</text>
+      <button class="plus" size="mini" type="default" bindtap="onCounterInc">+</button>
+    </div>
+<input bindinput="bindWordContent" type="text" placeholder='输入器材描述' />
+
+    <view >
+    
+        <button size="mini" type="default" bindtap="onAdd">提交</button>
+        
+      </view>
+      
+    </form>
+

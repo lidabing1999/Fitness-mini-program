@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    
+  },
+  "navigationBarTitleText": "器材借还",
+  "enablePullDownRefresh": true
+}

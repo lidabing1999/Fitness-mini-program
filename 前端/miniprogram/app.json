@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/find/find",
+    "pages/equipment/equipment",
+    "pages/personalCenter/personalCenter",
+    "pages/personalCenter/myInfor/myInfor",
+    "pages/noLogin/noLogin",
+    "pages/register/perfectInfor/perfectInfor",
+    "pages/register/registerSuccess/registerSuccess",
+    "pages/register/register",
+    "pages/login/login",
+    "pages/equipmentLend/equipmentLend"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "北邮健身互助系统",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor": "#d81e06",
+    "color": "666",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/find/find",
+        "text": "互助"
+      },
+      {
+        "pagePath": "pages/equipment/equipment",
+        "text": "器材"
+      },
+      {
+        "pagePath": "pages/personalCenter/personalCenter",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

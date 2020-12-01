@@ -1,0 +1,491 @@
+[ 2020-12-01T20:33:27+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000157s ]
+INFO: [ app_init ] --END-- [ RunTime:0.555188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023192s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:34:30+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:35:29+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:35:42+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:36:55+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:44:50+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:45:12+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:45:48+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+ERR: syntax error, unexpected '；' (T_STRING)
+
+[ 2020-12-01T20:46:27+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Undefined index: username E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 8 行.
+
+[ 2020-12-01T20:46:36+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined index: phone E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 15 行.
+
+[ 2020-12-01T20:47:18+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+NOTIC: [8] Undefined index: phone E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 15 行.
+
+[ 2020-12-01T20:47:33+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Undefined index: face_url E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 21 行.
+
+[ 2020-12-01T20:47:49+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:48:10+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:48:21+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:48:27+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+NOTIC: [8] Undefined index: username E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 8 行.
+
+[ 2020-12-01T20:49:08+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:51:21+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:52:47+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:53:12+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:53:14+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:54:12+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:54:35+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:55:03+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:55:17+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:56:33+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:58:16+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000247s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:58:32+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [8] Undefined index: username E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 8 行.
+
+[ 2020-12-01T20:59:40+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T20:59:58+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'test'
+
+[ 2020-12-01T21:06:06+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+ERR: 1146:Table 'fitness.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'fitness.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2020-12-01T21:07:22+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `user_book` (`username`,`phone`,`face_url`) VALUES ('老狗宁','123','456.jpg') [ RunTime:0.0662s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015617s ]
+
+[ 2020-12-01T21:08:08+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0302s ]
+
+[ 2020-12-01T21:09:48+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+ERR: 1146:Table 'fitness.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'fitness.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2020-12-01T21:10:10+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: USer E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 88 行.
+ERR: Call to a member function where() on null
+
+[ 2020-12-01T21:10:43+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: USer E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 88 行.
+ERR: Call to a member function where() on null
+
+[ 2020-12-01T21:11:01+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: user E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 88 行.
+ERR: Unsupported operand types
+
+[ 2020-12-01T21:13:10+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: user E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 88 行.
+ERR: Unsupported operand types
+
+[ 2020-12-01T21:13:31+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: id E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\UserController.class.php 第 102 行.
+
+[ 2020-12-01T21:13:58+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2020-12-01T21:25:34+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2020-12-01T21:25:46+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 123 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2020-12-01T21:26:29+08:00 ] ::1 /fitness/index.php/Home/Message/publish_new_euqipment_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Undefined index: user_id E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\MessageController.class.php 第 9 行.
+NOTIC: [2] Use of undefined constant return_data - assumed 'return_data' (this will throw an Error in a future version of PHP) E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\MessageController.class.php 第 13 行.
+
+[ 2020-12-01T21:27:26+08:00 ] ::1 /fitness/index.php/Home/Message/publish_new_euqipment_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: user_id E:\phpstudy_pro\WWW\fitness\Application\Home\Controller\MessageController.class.php 第 9 行.
+
+[ 2020-12-01T21:30:29+08:00 ] ::1 /fitness/index.php/Home/Message/publish_new_euqipment_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+SQL: SHOW COLUMNS FROM `equipment_message` [ RunTime:0.0006s ]
+SQL: INSERT INTO `equipment_message` (`user_id`,`username`,`face_url`,`word_content`,`picture_content`,`state`,`borrower_id`,`borrower_name`) VALUES ('1','老狗宁','456.jpg','哑铃','789.jpg','0','0','0') [ RunTime:0.0004s ]
+
+[ 2020-12-01T21:31:08+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 110 LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `user_book` (`username`,`phone`,`face_url`) VALUES ('老帅饼','110','xxx.jpg') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2020-12-01T21:32:07+08:00 ] ::1 /fitness/index.php/Home/User/sign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 110 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2020-12-01T21:32:33+08:00 ] ::1 /fitness/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+SQL: SHOW COLUMNS FROM `user_book` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `user_book` WHERE `phone` = 110 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2020-12-01T21:38:32+08:00 ] ::1 /fitness/index.php/Home/Message/publish_new_euqipment_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `equipment_message` [ RunTime:0.0007s ]
+ERR: 1364:Field 'time' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `equipment_message` (`user_id`,`username`,`face_url`,`word_content`,`picture_content`,`state`,`borrower_id`,`borrower_name`) VALUES ('1','老狗宁','456.jpg','哑铃','789.jpg','0','0','0')
+ERR: 1364:Field 'time' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `equipment_message` (`user_id`,`username`,`face_url`,`word_content`,`picture_content`,`state`,`borrower_id`,`borrower_name`) VALUES ('1','老狗宁','456.jpg','哑铃','789.jpg','0','0','0')
+
+[ 2020-12-01T21:40:13+08:00 ] ::1 /fitness/index.php/Home/Message/publish_new_euqipment_message
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `equipment_message` [ RunTime:0.0094s ]
+SQL: INSERT INTO `equipment_message` (`user_id`,`username`,`face_url`,`word_content`,`picture_content`,`state`,`borrower_id`,`borrower_name`,`send_timestamp`) VALUES ('1','老狗宁','456.jpg','哑铃','789.jpg','0','0','0','1606830013') [ RunTime:0.0003s ]
+
