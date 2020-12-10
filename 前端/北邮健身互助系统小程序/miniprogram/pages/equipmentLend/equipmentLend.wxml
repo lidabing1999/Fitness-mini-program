@@ -1,0 +1,54 @@
+<!--miniprogram/pages/equipmentLend/equipmentLend.wxml-->
+<form catchsubmit="formSubmit">
+<text>请选择器材的种类和重量</text>
+ <radio-group name="radio" bindchange="radioChange">
+          <label><radio value="哑铃"checked="true"/>哑铃</label>
+          <label><radio value="杠铃"/>杠铃</label>
+          <label><radio value="壶铃"/>壶铃</label>
+        </radio-group>
+
+         <div class="counter">
+      <button class="minus" size="mini" type="default" bindtap="onCounterDec">-</button>
+      <text class="p">{{count}}</text>
+      <button class="plus" size="mini" type="default" bindtap="onCounterInc">+</button>
+    </div>
+<input bindinput="bindWordContent" type="text" placeholder='输入器材描述' />
+
+<view class="section">
+<view class="section__title">请选择可用日期</view>
+  <picker mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChangeS">
+    <view class="picker">
+      开始日期: {{dateS}}
+    </view>
+  </picker>
+  <picker mode="date" value="{{date}}" start="2015-09-01" end="2017-09-01" bindchange="bindDateChangeE">
+    <view class="picker">
+      结束日期: {{dateE}}
+    </view>
+  </picker>
+</view>
+
+<view class="section">
+ <view class="section__title">请选择可用时间</view>
+  <picker mode="time" value="{{time}}" start="09:01" end="21:01" bindchange="bindTimeChangeS">
+    <view class="picker">
+      开始时间: {{timeS}}
+    </view>
+  </picker>
+  <picker mode="time" value="{{time}}" start="09:01" end="21:01" bindchange="bindTimeChangeE">
+    <view class="picker">
+      结束时间: {{timeE}}
+    </view>
+  </picker>
+</view>
+
+ <button size="mini" type="default" bindtap="upLoadPic">选择照片</button>
+
+    <view >
+    
+        <button size="mini" type="default" bindtap="onAdd">提交</button>
+        
+      </view>
+      
+    </form>
+
