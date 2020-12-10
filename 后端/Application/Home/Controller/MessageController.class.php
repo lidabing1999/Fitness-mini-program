@@ -140,12 +140,14 @@ class MessageController extends BaseController {
 
         $Equipment_message = M('Equipment_message');
         //查询条件
+
         $where=array();
         $where['user_id']=$_POST['user_id'];
-        $where['word_content']=$POST['word_content'];
+        $where['word_content']=$_POST['word_content'];
         $message =$Equipment_message->where($where)->find();
 
         //判断该数据是否存在
+        //dump($where);
         if(!$message){
             $return_data=array();
             $return_data['error_code']=2;
@@ -160,10 +162,10 @@ class MessageController extends BaseController {
         //构造保存条件
         $where=array();
         $where['user_id']=$_POST['user_id'];
-        $where['word_content']=$POST['word_content'];
-
+        $where['word_content']=$_POST['word_content'];
+        //dump($data);
         $result=$Equipment_message->where($where)->save($data);
-
+        //dump($where);
         if($result){
             $return_data = array();
             $return_data['error_code']=0;
@@ -213,8 +215,8 @@ class MessageController extends BaseController {
         //查询条件
         $where=array();
         $where['user_id']=$_POST['user_id'];
-        $where['word_content']=$POST['word_content'];
-        $where['borrower_id']=$POST['borrower_id'];
+        $where['word_content']=$_POST['word_content'];
+        $where['borrower_id']=$_POST['borrower_id'];
         $message =$Equipment_message->where($where)->find();
 
         //判断该数据是否存在
@@ -232,8 +234,8 @@ class MessageController extends BaseController {
         //构造保存条件
         $where=array();
         $where['user_id']=$_POST['user_id'];
-        $where['word_content']=$POST['word_content'];
-        $where['borrower_id']=$POST['borrower_id'];
+        $where['word_content']=$_POST['word_content'];
+        $where['borrower_id']=$_POST['borrower_id'];
 
         $result=$Equipment_message->where($where)->save($data);
 
@@ -288,7 +290,9 @@ class MessageController extends BaseController {
         $where=array();
         $where['user_id']=$_POST['user_id'];
         //查询个人发布信息
-        $person_message=$Equipment_message->where($where)->select;
+        
+        $person_message=$Equipment_message->where($where)->select();
+
         if($person_message){
             $return_data=array();
             $return_data['error_code']=0;
